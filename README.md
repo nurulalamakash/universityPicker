@@ -1,7 +1,7 @@
 # universityPicker
-#used php 
-# php form 
-# google map 
-#css
-#bootstrap 
-# 
+used php 
+php form 
+google map api
+css
+bootstrap 
+ 
